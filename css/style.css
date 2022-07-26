@@ -27,10 +27,12 @@
 	font-family: "calvino_italic";
 	src: url(../fonts/Calvino-Grande-Italic-trial.ttf);
 }
+
 @font-face {
 	font-family: "racing";
 	src: url(../fonts/Racing\ Catalogue.ttf);
 }
+
 /* Universal Css Start Here */
 :root {
 	--first-color: #81be41;
@@ -147,11 +149,25 @@ h3.heading-page {
 }
 
 ::placeholder {
-	font-family: "gtw";
+	font-family: "calvino_r";
 }
 
 label {
-	font-family: "gtw";
+	font-family: "calvino_r";
+}
+
+span.font_italic {
+	font-family: "calvino_italic";
+	font-weight: 600;
+	font-size: 40px;
+}
+
+.universal_banner {
+	background: #fff;
+	text-align: center;
+	position: relative;
+	padding: 60px 0;
+	padding-bottom: 0;
 }
 
 /* a.btn:hover {
@@ -375,7 +391,8 @@ p.para1 {
 }
 
 #header-top {
-	/* padding: 20px 0; */
+	padding: 10px 0;
+	background: #F8F3F1;
 }
 
 #header-top ul.menus {
@@ -568,101 +585,291 @@ section.banner_sec {
 section.blue_sec {
 	background: #E2FEFF;
 }
+
 .brand_name span {
-    font-size: 76px;
-    font-family: "calvino_b";
+	font-size: 76px;
+	font-family: "calvino_b";
 }
+
 /* section blue end here */
 /* home about section start here */
 h2.race_font {
-    font-family: "racing";
-    font-weight: 400;
+	font-family: "racing";
+	font-weight: 400;
 }
+
 .home_about_content p {
-    font-family: "calvino_l";
+	font-family: "calvino_l";
 	font-size: 14px;
 }
+
 .home_about_content {
-    background: #F8F3F1;
-    padding: 3rem 2rem;
+	background: #F8F3F1;
+	padding: 3rem 2rem;
 	margin-left: -4rem;
 }
+
 span.readmore_text {
-    color: #37CACF;
+	color: #37CACF;
 }
+
 section.about_carolyn_sec {
-    background: #fff;
-    padding: 5rem 0;
-    padding-bottom: 3rem;
+	background: #fff;
+	padding: 5rem 0;
+	padding-bottom: 3rem;
 }
+
 /* home about section end here */
 /* home grey section start here */
 section.home_grey_sec .blue_content {
-    padding: 4rem 12rem;
-    text-align: center;
+	padding: 4rem 12rem;
+	text-align: center;
 }
+
 section.home_grey_sec {
-    background: #F8F3F1;
+	background: #F8F3F1;
 }
+
 /* home grey section end here */
 /* why do u need me css start here */
 .wdynm_content p {
-    font-size: 14px;
-    font-family: "calvino_l";
+	font-size: 14px;
+	font-family: "calvino_l";
 	padding-right: 6rem;
 }
+
 section.home_wdynm_sec {
-    padding: 5rem 0;
+	padding: 5rem 0;
 }
+
 /* why do u need me css start here */
 /* home coach section start here */
 .icbicl_head {
-    display: flex;
-    justify-content: space-between;
+	display: flex;
+	justify-content: space-between;
 	align-items: center;
 	margin-bottom: 3rem;
 }
+
 .home_coach_carousel p {
-    font-size: 14px;
-    font-family: "calvino_l";
+	font-size: 14px;
+	font-family: "calvino_l";
 }
+
 .icbicl_left {
-    display: flex;
+	display: flex;
 	justify-content: center;
 }
+
 .icbicl_left img:not(:first-child) {
-    margin-left: -5rem;
+	margin-left: -5rem;
 }
-.icbicl_left img:not(:last-child){
+
+.icbicl_left img:not(:last-child) {
 	opacity: 27%;
 	color: #fff;
 	/* background: #fff; */
 }
+
 section.icbicl_sec {
-    background: #F8F3F1;
-    padding: 4rem 0;
+	background: #F8F3F1;
+	padding: 4rem 0;
 }
+
 /* home coach section end here */
 /* are u ready section start here */
 section.ruready_sec {
-    text-align: center;
+	text-align: center;
 	padding: 4rem 0;
 }
+
 section.ruready_sec p {
-    font-size: 14px;
-    font-family: "calvino_l";
+	font-size: 14px;
+	font-family: "calvino_l";
 }
+
 .ruready_content p {
-    font-size: 14px;
-    font-family: "calvino_l";
+	font-size: 14px;
+	font-family: "calvino_l";
 }
+
 .ruready_content figure {
-    margin-bottom: 1rem;
+	margin-bottom: 1rem;
 }
+
 .ruready_content {
-    margin-top: 3rem;
+	margin-top: 3rem;
 }
+
 /* are u ready section end here */
+/* my article css start here */
+.h_article_content .h_aritcle_img {
+	margin: 0 5px;
+}
+
+/* my article css end here */
+/* let me help you section css start here */
+h2.font_italic {
+	font-family: "calvino_italic";
+	font-weight: 400;
+}
+
+section.lmhyou_sec {
+	background: #F8F3F1;
+	padding-bottom: 3rem;
+	margin-top: 6rem;
+}
+
+.lmhyou_img3 {
+	text-align: right;
+}
+
+.lmhyou_img2 img {
+	width: 200px;
+	position: absolute;
+	right: 0;
+	top: -25px;
+}
+
+.lmhyou_img1 img {
+	margin-top: -10px;
+}
+
+.lmhyou_img2 {
+	text-align: right;
+	position: relative;
+}
+
+.lmhyou_sec2 {
+	text-align: center;
+	padding-top: 6rem;
+}
+
+.lmhyou_sec2 p {
+	font-size: 14px;
+}
+
+.lmhyou_img3 img {
+	width: 250px;
+}
+
+.lmhyou_img4 img {
+	width: 350px;
+}
+
+.lmhyou_img4 {
+	margin-top: 3rem;
+	text-align: center;
+}
+
+.lmhyou_input .form-group button.btn {
+	background: #E2FEFF;
+	color: #000;
+	font-size: 12px;
+	padding: 10px 30px;
+	font-weight: 500;
+	transition: 0.6s;
+	border-radius: 20px;
+	border: 1px solid #E2FEFF;
+	text-transform: uppercase;
+	position: absolute;
+	right: 25.4%;
+	top: 4px;
+}
+
+.lmhyou_input .form-group .form-control {
+	border: 0;
+	border-radius: 20px;
+	width: 50%;
+	margin: auto;
+	line-height: 1.8;
+}
+
+.lmhyou_input .form-group {
+	position: relative;
+}
+
+.lmhyou_input .form-group button.btn img {
+	filter: brightness(0);
+	-webkit-filter: brightness(0);
+}
+
+/* let me help you section css end here */
+/* home event css start here */
+.home_event_top {
+	text-align: center;
+}
+
+p.event_date {
+	font-family: "Poppins";
+	font-size: 12px;
+	color: #fff;
+	margin-bottom: 0;
+}
+
+.home_event_desc .text1 {
+	font-size: 20px;
+	color: #fff;
+}
+
+.home_event_desc span.font_italic {
+	font-family: "calvino_italic";
+	font-weight: 500;
+	font-size: 20px;
+	display: block;
+	color: #fff;
+}
+
+.home_event_desc a.btn {
+	padding: 0;
+	background: transparent;
+	color: #fff;
+	border: none;
+}
+
+.home_event_desc a.btn img.img-fluid {
+	filter: brightness(1);
+	-webkit-filter: brightness(1);
+}
+
+.home_event_desc {
+	position: absolute;
+	/* top: 58%; */
+	left: 10px;
+	bottom: 0;
+}
+
+.home_event_img img.right_img {
+	height: 510px;
+	width: 100%;
+}
+
+.tatwy_sec {
+	position: relative;
+}
+
+section.home_event_sec {
+	padding-top: 5rem;
+}
+
+/* home event css end here */
+/* instafeed css start here */
+.instafeed_top {
+	padding: 0 2rem;
+}
+
+section.instafeed_sec {
+	padding: 5rem 0;
+	padding-bottom: 0;
+}
+
+.instafeed_top h2 span {
+	font-family: "calvino_italic";
+	font-weight: 500;
+	font-size: 40px;
+}
+
+/* instafeed css end here */
 
 /* homepage body end here */
 
@@ -723,7 +930,7 @@ button.btn.black {
 }
 
 footer {
-	margin: 10rem 0 0 0;
+	/* margin: 10rem 0 0 0; */
 	position: relative;
 	/* padding: 150px 0px 0px; */
 	background-color: #E2FEFF;

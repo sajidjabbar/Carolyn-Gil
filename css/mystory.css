@@ -1,0 +1,24 @@
+.story_banner_content {
+    text-align: center;
+}
+
+.story_banner_content h3 {
+    margin-top: 1rem;
+}
+
+.story_banner_content span.font_italic {
+    font-size: 30px;
+}
+
+.inspiring_content span.font_italic {
+    font-size: 30px;
+}
+
+section.inspiring_sec {
+    background: #F8F3F1;
+    padding: 5rem 0;
+}
+
+section.story_banner {
+    padding-bottom: 1rem;
+}

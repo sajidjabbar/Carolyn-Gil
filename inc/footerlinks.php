@@ -104,6 +104,97 @@ $('.home_coach_carousel').slick({
 });
 // Brands Slider About Page
 
+// my article Slider About Page
+// $('.h_article_carousel').slick({
+//     dots: false,
+//     arrows: false,
+//     infinite: true,
+//     speed: 300,
+//     slidesToShow: 3,
+//     slidesToScroll: 1,
+//     responsive: [{
+//             breakpoint: 1024,
+//             settings: {
+//                 slidesToShow: 1,
+//                 slidesToScroll: 1,
+//                 infinite: true,
+//                 dots: true
+//             }
+//         },
+//         {
+//             breakpoint: 600,
+//             settings: {
+//                 slidesToShow: 1,
+//                 slidesToScroll: 1
+//             }
+//         },
+//         {
+//             breakpoint: 480,
+//             settings: {
+//                 slidesToShow: 1,
+//                 slidesToScroll: 1
+//             }
+//         }
+//     ]
+// });
 
-
+$('.h_article_carousel').slick({
+    centerMode: true,
+    centerPadding: '60px',
+    slidesToShow: 2,
+    responsive: [{
+            breakpoint: 768,
+            settings: {
+                arrows: false,
+                centerMode: true,
+                centerPadding: '40px',
+                slidesToShow: 3
+            }
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                arrows: false,
+                centerMode: true,
+                centerPadding: '40px',
+                slidesToShow: 1
+            }
+        }
+    ]
+});
+// my article Slider About Page
+// instafeed slide
+$('.instafeed_carousel').slick({
+    dots: false,
+    arrows: false,
+    infinite: true,
+    speed: 300,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                infinite: true,
+                dots: true
+            }
+        },
+        {
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        }
+    ]
+});
+// instafeed slide
 </script>

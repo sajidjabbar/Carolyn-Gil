@@ -1,7 +1,7 @@
 <!-- Footer Sec Start Here -->
 <footer>
     <div class="container">
-        
+
         <div class="row black_mid">
             <div class="col-lg-4 col-md-6">
                 <div class="footer_content">
@@ -70,9 +70,10 @@
                             <div class="ft_newletter">
                                 <p>Subscribe to my Newsletter</p>
                                 <div class="form-group">
-                                    <input type="text" class="form-control" id="newsletter" >
+                                    <input type="text" class="form-control" id="newsletter">
                                 </div>
-                                <button type="submit" class="btn \">Learn More <img src="img/rightarrow.svg" class="img-fluid" alt=""></button>
+                                <button type="submit" class="btn \">Learn More <img src="img/rightarrow.svg"
+                                        class="img-fluid" alt=""></button>
                             </div>
                             <!-- <ul class="info">
                                 <li><a href="#"><i class="fa fa-phone"></i> (800) 0123-456-789</a></li>
@@ -89,15 +90,6 @@
     </div>
 </footer>
 
-<div class="copyright">
-    <div class="container">
-        <div class="copyright_para">
-            <p>©Copyright Warmlanka.com 2022. All rights reserved.</p>
-            <p><a href="privacypolicy.php">Privicy policy</a> | <a href="termsncondition.php">Terms of conditions</a>
-            </p>
-        </div>
-    </div>
-</div>
 <!-- Footer Sec Start Here -->
 
 <!-- Footer Links Include -->
