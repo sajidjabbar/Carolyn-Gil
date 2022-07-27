@@ -1,6 +1,7 @@
 /* Font Family */
 @import "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap";
 @import "https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap";
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 /* Font Family */
 
 @font-face {
@@ -132,6 +133,7 @@ a.btn:hover {
 	font-weight: 500;
 	transition: 0.6s;
 	border-radius: 5px;
+	font-family: "calvino_sb";
 }
 
 figure {

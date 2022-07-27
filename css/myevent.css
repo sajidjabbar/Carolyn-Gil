@@ -1,0 +1,84 @@
+.myevent_page img {
+    height: 250px;
+}
+
+.myevent_page.blog_blue .home_about_content {
+    height: 350px;
+    margin-left: -2rem;
+    background: #e2feff;
+}
+
+.myevent_page .home_about_content {
+    height: 250px;
+    margin-left: -2rem;
+}
+
+section.myevent_page {
+    margin: 3rem 0;
+}
+
+section.myevent_page .page-link {
+    font-family: "Poppins";
+    background: transparent;
+    border: 0;
+    color: #A4A4A4;
+}
+
+section.myevent_page .page-item.active .page-link {
+    z-index: 2;
+    color: #000;
+    background-color: #e2feff;
+    border-color: #e2feff;
+}
+
+section.myevent_page .home_about_content small {
+    font-family: "Poppins";
+    font-size: 11px;
+}
+
+.myevent_page section .blog_sec.blog_blue .home_about_content {
+    height: 250px;
+    margin-left: -2rem;
+    background: #e2feff;
+}
+
+.myevent_page section.blog_sec {
+    margin: 3rem 0;
+}
+
+.myevent_page .blog_sec.blog_blue .home_about_content {
+    height: 250px;
+    margin-left: -2rem;
+    background: #e2feff;
+}
+
+.myevent_page .home_about_content span.font_italic {
+    font-family: "calvino_italic";
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.myevent_page a.btn img.img-fluid {
+    filter: brightness(0);
+    width: 15px;
+    height: 15px;
+}
+
+.myevent_page .home_about_content a.btn {
+    padding: 0;
+    background: transparent;
+}
+
+.myevent_page .home_about_content a.btn:hover {
+    background: transparent;
+    color: #000 !important;
+    border: 0;
+}
+
+.myevent_page .home_about_content {
+    padding: 2rem 2rem;
+}
+
+.myevent_page .home_about_content p {
+    line-height: 2;
+}

@@ -1,0 +1,32 @@
+.blog_img img {
+    height: 350px;
+}
+
+.blog_sec.blog_blue .home_about_content {
+    height: 350px;
+    margin-left: -2rem;
+    background: #e2feff;
+}
+
+.blog_sec .home_about_content {
+    height: 350px;
+    margin-left: -2rem;
+}
+
+section.blog_sec {
+    margin: 3rem 0;
+}
+
+section.blog_page .page-link {
+    font-family: "Poppins";
+    background: transparent;
+    border: 0;
+    color: #A4A4A4;
+}
+
+section.blog_page .page-item.active .page-link {
+    z-index: 2;
+    color: #000;
+    background-color: #e2feff;
+    border-color: #e2feff;
+}

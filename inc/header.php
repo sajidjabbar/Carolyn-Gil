@@ -8,8 +8,8 @@
                 <div class="navbar_menus ">
                     <ul class="menus text-center">
                         <li class="menu-items"><a href="index.php">Home</a></li>
-                        <li class="menu-items"><a href="shop.php">My Story</a></li>
-                        <li class="menu-items"><a href="restaurant.php">Success Stories </a></li>
+                        <li class="menu-items"><a href="mystory.php">My Story</a></li>
+                        <li class="menu-items"><a href="success_story.php">Success Stories </a></li>
                     </ul>
                 </div>
             </div>
@@ -23,7 +23,7 @@
             <div class="col-lg-5 col-8">
                 <div class="navbar_menus ">
                     <ul class="menus text-center">
-                        <li class="menu-items"><a href="travels.php">Blog</a></li>
+                        <li class="menu-items"><a href="blog.php">Blog</a></li>
                         <li class="menu-items"><a href="job.php">Contact</a></li>
                         <li class="menu-items"><a href="event-feed.php">LIVE EVENTS</a></li>
                     </ul>
