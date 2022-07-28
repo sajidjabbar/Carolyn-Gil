@@ -21,12 +21,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <div class="blog_img">
+                    <div class="blog_img wow animate__animated animate__fadeInLeft">
                         <img src="img/myblog1.png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
-                    <div class="home_about_content">
+                    <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
                         <h2>Find All About Carolyn Gill</h2>
                         <p>
@@ -54,12 +54,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <div class="blog_img">
+                    <div class="blog_img wow animate__animated animate__fadeInLeft">
                         <img src="img/myblog1.png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
-                    <div class="home_about_content">
+                    <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
                         <h2>Find All About Carolyn Gill</h2>
                         <p>
@@ -86,12 +86,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <div class="blog_img">
+                    <div class="blog_img wow animate__animated animate__fadeInLeft">
                         <img src="img/myblog1.png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
-                    <div class="home_about_content">
+                    <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
                         <h2>Find All About Carolyn Gill</h2>
                         <p>
@@ -118,12 +118,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <div class="blog_img">
+                    <div class="blog_img wow animate__animated animate__fadeInLeft">
                         <img src="img/myblog1.png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
-                    <div class="home_about_content">
+                    <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
                         <h2>Find All About Carolyn Gill</h2>
                         <p>

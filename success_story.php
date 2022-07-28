@@ -21,12 +21,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 align-self-center">
-                    <div class="about_carolyn_img">
+                    <div class="about_carolyn_img wow animate__animated animate__fadeInLeft">
                         <img src="img/mystory1.png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-md-6 align-self-center">
-                    <div class="home_about_content">
+                    <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <h2 class="race_font">Lorem Ipsum Simet</h2>
                         <h2>Our Success <span class="font_italic">Stories</span></h2>
                         <p>
@@ -59,7 +59,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 align-self-center">
-                    <div class="home_about_content">
+                    <div class="home_about_content wow animate__animated animate__fadeInLeft">
                         <h2 class="race_font">Lorem Ipsum Simet</h2>
                         <h2>Our Success <span class="font_italic">Stories</span></h2>
                         <p>
@@ -86,7 +86,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 align-self-center">
-                    <div class="about_carolyn_img">
+                    <div class="about_carolyn_img wow animate__animated animate__fadeInRight">
                         <img src="img/mystory2.png" class="img-fluid" alt="">
                     </div>
                 </div>

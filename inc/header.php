@@ -24,8 +24,8 @@
                 <div class="navbar_menus ">
                     <ul class="menus text-center">
                         <li class="menu-items"><a href="blog.php">Blog</a></li>
-                        <li class="menu-items"><a href="job.php">Contact</a></li>
-                        <li class="menu-items"><a href="event-feed.php">LIVE EVENTS</a></li>
+                        <li class="menu-items"><a href="contact.php">Contact</a></li>
+                        <li class="menu-items"><a href="myevent.php">LIVE EVENTS</a></li>
                     </ul>
                 </div>
             </div>

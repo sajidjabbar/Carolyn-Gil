@@ -25,12 +25,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <div class="blog_img">
+                    <div class="blog_img wow animate__animated animate__fadeInLeft">
                         <img src="img/event1.png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
-                    <div class="home_about_content">
+                    <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <small>July 04, 2022</small>
                         <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span></h4>
 
@@ -42,7 +42,8 @@
 
 
                         </p>
-                        <a href="" class="btn">read More<img src="img/rightarrow.svg" class="img-fluid ml-2" alt=""></a>
+                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg"
+                                class="img-fluid ml-2" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -58,13 +59,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <div class="blog_img">
+                    <div class="blog_img wow animate__animated animate__fadeInLeft">
                         <img src="img/event2.png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
-                    <div class="home_about_content">
-                        <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
+                    <div class="home_about_content wow animate__animated animate__fadeInRight">
+                        <small>July 04, 2022</small>
                         <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span> </h4>
 
                         <p>
@@ -74,7 +75,8 @@
                             magna aliqua. Ut enim ad minim veniam, quis nostis nisi ut commodo consequat.
 
                         </p>
-                        <a href="" class="btn">read More<img src="img/rightarrow.svg" class="img-fluid ml-2" alt=""></a>
+                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg"
+                                class="img-fluid ml-2" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -90,13 +92,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <div class="blog_img">
+                    <div class="blog_img wow animate__animated animate__fadeInLeft">
                         <img src="img/event3.png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
-                    <div class="home_about_content">
-                        <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
+                    <div class="home_about_content wow animate__animated animate__fadeInRight">
+                        <small>July 04, 2022</small>
                         <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span></h4>
 
                         <p>
@@ -106,7 +108,8 @@
                             magna aliqua. Ut enim ad minim veniam, quis nostis nisi ut commodo consequat.
 
                         </p>
-                        <a href="" class="btn">read More<img src="img/rightarrow.svg" class="img-fluid ml-2" alt=""></a>
+                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg"
+                                class="img-fluid ml-2" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -122,13 +125,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <div class="blog_img">
+                    <div class="blog_img wow animate__animated animate__fadeInLeft">
                         <img src="img/event4.png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
-                    <div class="home_about_content">
-                        <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
+                    <div class="home_about_content wow animate__animated animate__fadeInRight">
+                        <small>July 04, 2022</small>
                         <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span></h4>
 
                         <p>
@@ -138,7 +141,8 @@
                             magna aliqua. Ut enim ad minim veniam, quis nostis nisi ut commodo consequat.
 
                         </p>
-                        <a href="" class="btn">read More<img src="img/rightarrow.svg" class="img-fluid ml-2" alt=""></a>
+                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg"
+                                class="img-fluid ml-2" alt=""></a>
                     </div>
                 </div>
             </div>

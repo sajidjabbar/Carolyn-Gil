@@ -23,11 +23,11 @@
                                 <h5>Dataxive Menu</h5>
                             </div>
                             <ul class="footer_menus">
-                                <li><a href="contactus.php">About Me</a></li>
-                                <li><a href="advertisement.php">My stories</a></li>
-                                <li><a href="#">Success Stories</a></li>
-                                <li><a href="#">Contact</a></li>
-                                <li><a href="#">Book Consultancy</a></li>
+                                <li><a href="about.php">About Me</a></li>
+                                <li><a href="mystory.php">My stories</a></li>
+                                <li><a href="success_story.ph">Success Stories</a></li>
+                                <li><a href="contact.php">Contact</a></li>
+                                <li><a href="booknow.php">Book Consultancy</a></li>
                             </ul>
                         </div>
                     </div>

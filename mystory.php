@@ -12,9 +12,10 @@
     <section class="universal_banner">
         <div class="container">
             <div class="heading_wrapper">
-                <h2 class="race_font">My Story</h2>
-                <h2>Find All About <span class="font_italic">Carolyn Gill</span> </h2>
-                <p>
+                <h2 class="race_font wow animate__animated animate__fadeInDown">My Story</h2>
+                <h2 class="wow animate__animated animate__fadeInDown">Find All About <span class="font_italic">Carolyn
+                        Gill</span> </h2>
+                <p class="wow animate__animated animate__fadeInDown">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
                     et dolore magna <br> aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
                     ut
@@ -29,10 +30,11 @@
                 <div class="col"></div>
                 <div class="col-md-8">
                     <div class="story_banner_content">
-                        <img src="img/mystory3.png" class="img-fluid" alt="">
-                        <h3>If Your Life Looks Great But You Feel Empty</h3>
-                        <span class="font_italic">Iam Here To Help You</span>
-                        <p>
+                        <img src="img/mystory3.png" class="img-fluid wow animate__animated animate__fadeInLeft" alt="">
+                        <h3 class="wow animate__animated animate__fadeInDown">If Your Life Looks Great But You Feel
+                            Empty</h3>
+                        <span class="font_italic wow animate__animated animate__fadeInDown">Iam Here To Help You</span>
+                        <p class="wow animate__animated animate__fadeInDown">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
                             labor et, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
@@ -50,7 +52,7 @@
             <div class="row">
                 <div class="col-md-6 align-self-center">
                     <div>
-                        <div class="inspiring_content">
+                        <div class="inspiring_content wow animate__animated animate__fadeInLeft">
                             <h2 class="race_font">Inspiring Lifes</h2>
                             <h3>Inspiring Women To Find</h3>
                             <span class="font_italic">Home Within</span>
@@ -67,7 +69,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div>
+                    <div class="wow animate__animated animate__fadeInRight">
                         <img src="img/mystory4.png" class="img-fluid" alt="">
                     </div>
                 </div>

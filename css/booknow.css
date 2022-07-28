@@ -1,0 +1,13 @@
+section.booknow_sec {
+    padding: 3rem 0;
+}
+
+.booknow_form {
+    padding: 3rem;
+    background: #f8f3f1;
+}
+
+.booknow_form .form-group .form-control {
+    border: 0;
+    line-height: 2;
+}
