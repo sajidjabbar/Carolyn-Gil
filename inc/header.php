@@ -6,7 +6,7 @@
 
             <div class="col-lg-5">
                 <div class="navbar_menus ">
-                    <ul class="menus text-center">
+                    <ul class="menus text-left">
                         <li class="menu-items"><a href="index.php">Home</a></li>
                         <li class="menu-items"><a href="mystory.php">My Story</a></li>
                         <li class="menu-items"><a href="success_story.php">Success Stories </a></li>
@@ -16,13 +16,13 @@
             <div class="col-lg-2 col-3">
                 <div class="logoDv">
                     <a href="index.php">
-                        <figure><img src="img/logo.png" class="img-fluid"></figure>
+                        <figure><img src="img/logo2.png" class="img-fluid"></figure>
                     </a>
                 </div>
             </div>
             <div class="col-lg-5 col-8">
                 <div class="navbar_menus ">
-                    <ul class="menus text-center">
+                    <ul class="menus text-right">
                         <li class="menu-items"><a href="blog.php">Blog</a></li>
                         <li class="menu-items"><a href="contact.php">Contact</a></li>
                         <li class="menu-items"><a href="myevent.php">LIVE EVENTS</a></li>

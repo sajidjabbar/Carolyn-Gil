@@ -420,12 +420,12 @@ p.para1 {
 }
 
 #header-top ul.menus li a {
-	font-size: 14px;
+	font-size: 15px;
 	color: #000;
 	text-decoration: none;
-	font-weight: 400;
+	/* font-weight: 400; */
 	text-transform: inherit;
-	font-family: "calvino_sb";
+	font-family: "calvino_b";
 	text-transform: uppercase;
 }
 
@@ -567,10 +567,18 @@ section.banner_sec {
 
 .banner_content h1 {
 	color: #fff;
+	font-size: 90px;
+	margin-bottom: 1.8rem;
 }
 
 .banner_content {
 	padding: 10rem 0;
+}
+
+.banner_content span.font_italic {
+	font-family: "calvino_italic";
+	font-weight: 400;
+	font-size: 40px;
 }
 
 /* banner section end here  */

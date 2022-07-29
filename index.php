@@ -11,7 +11,7 @@
                 <div class="col-md-6">
                     <div class="banner_content">
                         <p class="text1  wow animate__animated animate__fadeInLeft">
-                            Loving Yourself isn't vanity
+                            Loving Yourself isn't <span class="font_italic">vanity</span>
                         </p>
                         <h1 class="wow animate__animated animate__fadeInRight">It's Sanity</h1>
                         <p class="text2 wow animate__animated animate__fadeInLeft">
