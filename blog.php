@@ -28,7 +28,7 @@
                 <div class="col-md-8">
                     <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
-                        <h2>Find All About Carolyn Gill</h2>
+                        <h2>Find All About <span class="font_italic">Carolyn Gill</span> </h2>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -55,13 +55,13 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="blog_img wow animate__animated animate__fadeInLeft">
-                        <img src="img/myblog1.png" class="img-fluid" alt="">
+                        <img src="img/myblog2.png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
                     <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
-                        <h2>Find All About Carolyn Gill</h2>
+                        <h2>Find All About <span class="font_italic">Carolyn Gill</span> </h2>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -87,13 +87,13 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="blog_img wow animate__animated animate__fadeInLeft">
-                        <img src="img/myblog1.png" class="img-fluid" alt="">
+                        <img src="img/myblog3.png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
                     <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
-                        <h2>Find All About Carolyn Gill</h2>
+                        <h2>Find All About <span class="font_italic">Carolyn Gill</span> </h2>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -119,13 +119,13 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="blog_img wow animate__animated animate__fadeInLeft">
-                        <img src="img/myblog1.png" class="img-fluid" alt="">
+                        <img src="img/myblog4.png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">
                     <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
-                        <h2>Find All About Carolyn Gill</h2>
+                        <h2>Find All About <span class="font_italic">Carolyn Gill</span> </h2>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco

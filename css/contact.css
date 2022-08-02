@@ -39,3 +39,19 @@
 section.contact_sec {
     padding: 3rem 0 6rem;
 }
+
+.contact_right h2 {
+    font-size: 25px;
+}
+
+.contact_right span.font_italic {
+    font-size: 25px;
+}
+
+.contact_right .form-group .form-control {
+    line-height: 2;
+}
+
+.contact_right h2.race_font {
+    line-height: 1;
+}

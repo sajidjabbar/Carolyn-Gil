@@ -11,3 +11,11 @@ section.booknow_sec {
     border: 0;
     line-height: 2;
 }
+
+.booknow_form h2 span.font_italic {
+    font-size: 25px;
+}
+
+.booknow_form h2 {
+    font-size: 25px;
+}

@@ -17,7 +17,7 @@
                         Gill</span> </h2>
                 <p class="wow animate__animated animate__fadeInDown">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna <br> aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+                    et dolore <br> magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
                     ut
                     commodo consequat.
                 </p>
@@ -28,7 +28,7 @@
         <div class="container">
             <div class="row">
                 <div class="col"></div>
-                <div class="col-md-8">
+                <div class="col-md-9">
                     <div class="story_banner_content">
                         <img src="img/mystory3.png" class="img-fluid wow animate__animated animate__fadeInLeft" alt="">
                         <h3 class="wow animate__animated animate__fadeInDown">If Your Life Looks Great But You Feel

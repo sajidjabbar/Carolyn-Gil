@@ -32,8 +32,9 @@
         <div class="container">
             <div class="blue_content">
                 <p class="text1 wow animate__animated animate__fadeInDown">
-                    " To support women to achieve their full potential; to encourage, enable and facilitate their Active
-                    involvement in business, employment, learning and community life. "
+                    " To support women to achieve their full potential; <span class="font_italic">to encourage,
+                        enable and facilitate</span> their Active
+                    involvement in business, <span class="font_italic">employment, learning and community life. "</span>
                 </p>
                 <div class="brand_name wow animate__animated animate__fadeInDown">
 
@@ -58,7 +59,8 @@
                         <h2 class="race_font wow animate__animated animate__fadeInRight">Welcome To Carolyn Gill
                             Coaching
                         </h2>
-                        <h2 class="wow animate__animated animate__fadeInRight">Find All About Carolyn Gill</h2>
+                        <h2 class="wow animate__animated animate__fadeInRight">Find All About <span class="font_italic">
+                                Carolyn Gill</span> </h2>
                         <p class="wow animate__animated animate__fadeInRight">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -89,8 +91,8 @@
         <div class="container">
             <div class="blue_content">
                 <p class="text1 wow animate__animated animate__fadeInRight">
-                    "If Your Life Looks Great On The Outside,
-                    But Empty On The Inside...I'm Here To Help"
+                    "If Your Life Looks Great On The Outside, <br>
+                    But Empty On The Inside...<span class="font_italic">I'm Here To Help"</span>
                 </p>
             </div>
         </div>
@@ -108,7 +110,7 @@
                 <div class="col-md-6 align-self-center">
                     <div class="wdynm_content wow animate__animated animate__fadeInRight">
                         <h2 class="race_font">Lorem Ipsum</h2>
-                        <h2>Why Do You Need Me</h2>
+                        <h2>Why Do You <span class="font_italic">Need Me</span> </h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
                             laboris nisi ut commodo consequat. <span class="readmore_text">READ MORE</span>
@@ -129,7 +131,8 @@
                     <div>
                         <h2 class="race_font wow animate__animated animate__fadeInDown">I Coach Because It Changes Lives
                         </h2>
-                        <h2 class="wow animate__animated animate__fadeInDown">What My Clients Say</h2>
+                        <h2 class="wow animate__animated animate__fadeInDown">What My <span class="font_italic">Clients
+                                Say</span> </h2>
                     </div>
                     <div>
                         <a href="" class="btn wow animate__animated animate__fadeInDown">read more<img
@@ -196,7 +199,8 @@
             <div>
                 <h2 class="race_font wow animate__animated animate__fadeInDown">Are You Ready?</h2>
                 <h2 class="wow animate__animated animate__fadeInDown">These Are The Ways You Can <br>
-                    Work With Me</h2>
+                    <span class="font_italic">Work With Me</span>
+                </h2>
                 <p class="wow animate__animated animate__fadeInDown">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
                     et dolore magna <br> aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
@@ -213,8 +217,8 @@
                                 <img src="img/ruready1.png" class="img-fluid" alt="">
                             </figure>
                             <div>
-                                <h6> Coaching With
-                                    Zoom Or Phone</h6>
+                                <h6><span class="font_italic">Coaching With
+                                        Zoom Or Phone</span> </h6>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                     incididunt ut.
@@ -231,7 +235,7 @@
                                 <img src="img/ruready2.png" class="img-fluid" alt="">
                             </figure>
                             <div>
-                                <h6> In Person</h6>
+                                <h6><span class="font_italic">In Person</span> </h6>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                     incididunt ut.
@@ -248,8 +252,8 @@
                                 <img src="img/ruready3.png" class="img-fluid" alt="">
                             </figure>
                             <div>
-                                <h6> A Personal
-                                    Days Weekend</h6>
+                                <h6><span class="font_italic">A Personal
+                                        Days Weekend</span> </h6>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                     incididunt ut.
@@ -269,7 +273,8 @@
             <div class="icbicl_head">
                 <div>
                     <h2 class="race_font wow animate__animated animate__fadeInDown">My Articles</h2>
-                    <h2 class="wow animate__animated animate__fadeInDown">You Will Want To Read.</h2>
+                    <h2 class="wow animate__animated animate__fadeInDown">You Will Want <span class="font_italic">To
+                            Read.</span> </h2>
                 </div>
                 <div>
                     <a href="" class="btn wow animate__animated animate__fadeInDown">View All<img
@@ -545,6 +550,9 @@
     <!-- instafeed section start here -->
     <section class="instafeed_sec">
         <div class="container-fluid">
+            <div class="blank_sec">
+
+            </div>
             <div class="row">
                 <div class="col-md-3">
                     <div class="instafeed_top">

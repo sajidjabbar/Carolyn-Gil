@@ -20,7 +20,8 @@
     <section class="booknow_sec">
         <div class="container">
             <div class="row">
-                <div class="col-md-12 booknow_right">
+                <div class="col"></div>
+                <div class="col-md-11 booknow_right">
                     <div class="booknow_form">
                         <div>
                             <h2 class="race_font">Book Now</h2>
@@ -50,7 +51,7 @@
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <input type="tel" class="form-control" id="inputno"
-                                                placeholder="Enter Phone Number">
+                                                placeholder="Enter Phone">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
@@ -82,6 +83,7 @@
                         </form>
                     </div>
                 </div>
+                <div class="col"></div>
             </div>
         </div>
     </section>

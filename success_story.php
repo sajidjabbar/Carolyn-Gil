@@ -85,7 +85,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-md-6 align-self-center">
+                <div class="col-md-6 align-self-center text-right">
                     <div class="about_carolyn_img wow animate__animated animate__fadeInRight">
                         <img src="img/mystory2.png" class="img-fluid" alt="">
                     </div>

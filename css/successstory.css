@@ -10,7 +10,7 @@
 
 .succes_story_page .about_carolyn_sec_blue .home_about_content {
     background: #E2FEFF;
-    padding: 3rem 2rem;
+    padding: 5rem 2rem;
     margin-left: -8rem;
 }
 
@@ -21,12 +21,12 @@
 .succes_story_page section.about_carolyn_sec {
     background: #fff;
     padding: 5rem 0;
-    padding-bottom: 3rem;
+    padding-bottom: 0rem;
 }
 
 .succes_story_page .about_carolyn_img img {
     width: 400px;
-    height: 450px;
+    height: 500px;
 }
 
 .succes_story_page .about_carolyn_img {
@@ -45,8 +45,9 @@
 
 .succes_story_page .about_carolyn_grey_sec .home_about_content {
     background: #F8F3F1;
-    padding: 3rem 2rem;
+    padding: 4rem 2rem;
     margin-right: -5.4rem;
+    transform: translate(92px, 10px);
 }
 
 .succes_story_page .about_carolyn_grey_sec span.readmore_text {
@@ -66,4 +67,8 @@
 
 .succes_story_page .about_carolyn_grey_sec .about_carolyn_img {
     margin-left: 2.7rem;
+}
+
+section.about_carolyn_sec.about_carolyn_grey_sec {
+    padding-bottom: 5rem;
 }

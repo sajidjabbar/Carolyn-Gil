@@ -15,7 +15,8 @@
                 <h2>Live <span class="font_italic"> Events</span> </h2>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                    et dolore magna <br> aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+                    ut
                     commodo consequat.
                 </p>
             </div>
@@ -127,6 +128,39 @@
                 <div class="col-md-4">
                     <div class="blog_img wow animate__animated animate__fadeInLeft">
                         <img src="img/event4.png" class="img-fluid" alt="">
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    <div class="home_about_content wow animate__animated animate__fadeInRight">
+                        <small>July 04, 2022</small>
+                        <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span></h4>
+
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                            labor et, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                            magna aliqua. Ut enim ad minim veniam, quis nostis nisi ut commodo consequat.
+
+                        </p>
+                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg"
+                                class="img-fluid ml-2" alt=""></a>
+                    </div>
+                </div>
+            </div>
+            <div class="blog_wrapper">
+
+                <div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="blog_sec blog_blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="blog_img wow animate__animated animate__fadeInLeft">
+                        <img src="img/event1.png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="col-md-8">

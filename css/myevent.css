@@ -15,6 +15,7 @@
 
 section.myevent_page {
     margin: 3rem 0;
+    margin-top: 0;
 }
 
 section.myevent_page .page-link {
@@ -44,6 +45,7 @@ section.myevent_page .home_about_content small {
 
 .myevent_page section.blog_sec {
     margin: 3rem 0;
+    margin-top: 6rem;
 }
 
 .myevent_page .blog_sec.blog_blue .home_about_content {

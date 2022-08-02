@@ -11,6 +11,7 @@
 .blog_sec .home_about_content {
     height: 350px;
     margin-left: -2rem;
+    padding: 3rem 3rem;
 }
 
 section.blog_sec {
@@ -29,4 +30,9 @@ section.blog_page .page-item.active .page-link {
     color: #000;
     background-color: #e2feff;
     border-color: #e2feff;
+}
+
+.blog_sec .home_about_content span.readmore_text {
+    color: #37CACF;
+    font-family: 'calvino_sb';
 }
