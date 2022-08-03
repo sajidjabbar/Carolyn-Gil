@@ -587,8 +587,8 @@
     <!-- instafeed section edn here -->
     <section class="fixed_btn-sec">
         <div>
-            <a href="booknow.php" class="btn">BOOK CONSULTATION<img src="img/rightarrow.svg" class="img-fluid ml-2"
-                    alt=""></a>
+            <a href="booknow.php" class="btn"><img src="img/appointm_icon.png" class="img-fluid mr-2" alt="">book <br>
+                NOW</a>
         </div>
     </section>
 </section>

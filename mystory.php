@@ -69,7 +69,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="wow animate__animated animate__fadeInRight">
+                    <div class="inspiring_img wow animate__animated animate__fadeInRight">
                         <img src="img/mystory4.png" class="img-fluid" alt="">
                     </div>
                 </div>

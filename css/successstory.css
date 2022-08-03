@@ -48,6 +48,8 @@
     padding: 4rem 2rem;
     margin-right: -5.4rem;
     transform: translate(92px, 10px);
+    z-index: 1;
+    position: relative;
 }
 
 .succes_story_page .about_carolyn_grey_sec span.readmore_text {
@@ -61,12 +63,13 @@
 }
 
 .succes_story_page .about_carolyn_grey_sec .about_carolyn_img img {
-    width: 400px;
-    height: 450px;
+    width: 500px;
+    height: 500px;
 }
 
 .succes_story_page .about_carolyn_grey_sec .about_carolyn_img {
-    margin-left: 2.7rem;
+    margin-left: 1.7rem;
+    text-align: left;
 }
 
 section.about_carolyn_sec.about_carolyn_grey_sec {

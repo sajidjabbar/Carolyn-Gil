@@ -582,6 +582,36 @@ section.banner_sec {
 	font-size: 40px;
 }
 
+@media(max-width:1440px) {
+	.banner_content {
+		padding: 16.5rem 0;
+	}
+}
+
+@media(max-width:1366px) {
+	.banner_content {
+		padding: 13rem 0;
+	}
+}
+
+@media(max-width:1280px) {
+	.banner_content {
+		padding: 12rem 0;
+	}
+}
+
+@media(max-width:1100px) {
+	.banner_content {
+		padding: 8.5rem 0;
+	}
+}
+
+@media(max-width:1024px) {
+	.banner_content {
+		padding: 8.5rem 0;
+	}
+}
+
 /* banner section end here  */
 /* section blue start here */
 .blue_content .text1 {
@@ -626,8 +656,8 @@ h2.race_font {
 }
 
 .home_about_content p {
-	font-family: "calvino_l";
-	font-size: 14px;
+	font-family: 'calvino_r';
+	font-size: 15px;
 }
 
 .home_about_content {
@@ -638,6 +668,8 @@ h2.race_font {
 
 span.readmore_text {
 	color: #37CACF;
+	font-size: 16px;
+	font-family: 'calvino_sb';
 }
 
 section.about_carolyn_sec {
@@ -660,8 +692,8 @@ section.home_grey_sec {
 /* home grey section end here */
 /* why do u need me css start here */
 .wdynm_content p {
-	font-size: 14px;
-	font-family: "calvino_l";
+	font-size: 15px;
+	font-family: "calvino_r";
 	/* padding-right: 6rem; */
 }
 
@@ -687,6 +719,7 @@ section.home_wdynm_sec {
 
 .icbicl_head a.btn {
 	margin-top: 3rem;
+	font-size: 15px;
 }
 
 .home_coach_carousel p {
@@ -825,7 +858,7 @@ section.ruready_sec p {
 }
 
 .ruready_content h6 span.font_italic {
-	font-size: 20px;
+	font-size: 21px;
 }
 
 /* are u ready section end here */
@@ -877,6 +910,7 @@ section.lmhyou_sec {
 .lmhyou_img2 {
 	text-align: right;
 	position: relative;
+	display: none;
 }
 
 .lmhyou_sec2 {
@@ -893,12 +927,13 @@ section.lmhyou_sec {
 }
 
 .lmhyou_img4 img {
-	width: 350px;
+	width: 300px;
 }
 
 .lmhyou_img4 {
 	margin-top: 3rem;
-	text-align: center;
+	text-align: left;
+	margin-left: 6rem;
 }
 
 .lmhyou_input .form-group button.btn {
@@ -1136,21 +1171,27 @@ section.fixed_btn-sec a.btn {
 	background: #44D7DC;
 	border-radius: 25px 25px 0 0;
 	border: 10px solid #fff;
-	border-bottom: 0;
-	padding: 20px 40px;
-	-webkit-border-radius: 25px 25px 0 0;
+	border-right: 0;
+	padding: 10px 24px;
+	-webkit-border-radius: 25px 0 0 25px;
 	-moz-border-radius: 25px 25px 0 0;
 	-ms-border-radius: 25px 25px 0 0;
 	-o-border-radius: 25px 25px 0 0;
 	box-shadow: rgb(0 0 0 / 24%) 0px 0px 8px;
+	display: flex;
+	align-items: center;
+}
+
+section.fixed_btn-sec a.btn img {
+	width: 24px;
 }
 
 section.fixed_btn-sec {
 	position: fixed;
 	top: 50%;
-	right: -96px;
+	right: 0px;
 	z-index: 9;
-	transform: rotate(270deg);
+	/* transform: rotate(270deg); */
 }
 
 /* fixed button css end here */

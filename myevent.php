@@ -12,7 +12,7 @@
         <div class="container">
             <div class="heading_wrapper">
                 <h2 class="race_font">Lorem Ipsum Doler</h2>
-                <h2>Live <span class="font_italic"> Events</span> </h2>
+                <h2> <span class="font_italic">Live Events</span> </h2>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
                     et dolore magna <br> aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi

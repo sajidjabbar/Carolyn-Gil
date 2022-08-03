@@ -32,6 +32,10 @@ section.story_banner {
 }
 
 section.inspiring_sec img {
-    width: 100%;
+    width: 480px;
     height: 600px;
+}
+
+.inspiring_img {
+    text-align: right;
 }
