@@ -1,5 +1,5 @@
 <!-- App Include Here -->
-<?php include 'inc/app.php';?>
+<?php include 'inc/app.php'; ?>
 <!-- App Include Here -->
 
 <!-- Css Stylesheet -->
@@ -8,7 +8,7 @@
 
 <!-- section blog start here -->
 <section class="myevent_page">
-    <section class="universal_banner">
+    <section class="universal_banner pb-5">
         <div class="container">
             <div class="heading_wrapper">
                 <h2 class="race_font">Lorem Ipsum Doler</h2>
@@ -33,8 +33,12 @@
                 <div class="col-md-8">
                     <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <small>July 04, 2022</small>
-                        <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span></h4>
-
+                        <div class="top_heading d-flex align-items-center justify-content-between">
+                            <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span></h4>
+                            <a href="" class="btn">BOOK NOW
+                                <img src="img/rightarrow.svg" class="img-fluid ml-2" alt="">
+                            </a>
+                        </div>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -43,8 +47,7 @@
 
 
                         </p>
-                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg"
-                                class="img-fluid ml-2" alt=""></a>
+                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg" class="img-fluid ml-2" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -67,8 +70,12 @@
                 <div class="col-md-8">
                     <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <small>July 04, 2022</small>
-                        <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span> </h4>
-
+                        <div class="top_heading d-flex align-items-center justify-content-between">
+                            <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span></h4>
+                            <a href="" class="btn">BOOK NOW
+                                <img src="img/rightarrow.svg" class="img-fluid ml-2" alt="">
+                            </a>
+                        </div>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -76,8 +83,7 @@
                             magna aliqua. Ut enim ad minim veniam, quis nostis nisi ut commodo consequat.
 
                         </p>
-                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg"
-                                class="img-fluid ml-2" alt=""></a>
+                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg" class="img-fluid ml-2" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -100,8 +106,12 @@
                 <div class="col-md-8">
                     <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <small>July 04, 2022</small>
-                        <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span></h4>
-
+                        <div class="top_heading d-flex align-items-center justify-content-between">
+                            <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span></h4>
+                            <a href="" class="btn">BOOK NOW
+                                <img src="img/rightarrow.svg" class="img-fluid ml-2" alt="">
+                            </a>
+                        </div>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -109,8 +119,7 @@
                             magna aliqua. Ut enim ad minim veniam, quis nostis nisi ut commodo consequat.
 
                         </p>
-                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg"
-                                class="img-fluid ml-2" alt=""></a>
+                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg" class="img-fluid ml-2" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -133,8 +142,12 @@
                 <div class="col-md-8">
                     <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <small>July 04, 2022</small>
-                        <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span></h4>
-
+                        <div class="top_heading d-flex align-items-center justify-content-between">
+                            <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span></h4>
+                            <a href="" class="btn">BOOK NOW
+                                <img src="img/rightarrow.svg" class="img-fluid ml-2" alt="">
+                            </a>
+                        </div>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -142,8 +155,7 @@
                             magna aliqua. Ut enim ad minim veniam, quis nostis nisi ut commodo consequat.
 
                         </p>
-                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg"
-                                class="img-fluid ml-2" alt=""></a>
+                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg" class="img-fluid ml-2" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -166,8 +178,12 @@
                 <div class="col-md-8">
                     <div class="home_about_content wow animate__animated animate__fadeInRight">
                         <small>July 04, 2022</small>
-                        <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span></h4>
-
+                        <div class="top_heading d-flex align-items-center justify-content-between">
+                            <h4>These Are The Ways You Can <span class="font_italic"> Work With Me</span></h4>
+                            <a href="" class="btn">BOOK NOW
+                                <img src="img/rightarrow.svg" class="img-fluid ml-2" alt="">
+                            </a>
+                        </div>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -175,8 +191,7 @@
                             magna aliqua. Ut enim ad minim veniam, quis nostis nisi ut commodo consequat.
 
                         </p>
-                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg"
-                                class="img-fluid ml-2" alt=""></a>
+                        <a href="eventdetail.php" class="btn">read More<img src="img/rightarrow.svg" class="img-fluid ml-2" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -213,5 +228,5 @@
 <!-- section blog end here -->
 
 <!-- Footer Include Here -->
-<?php include 'inc/footer.php';?>
+<?php include 'inc/footer.php'; ?>
 <!-- Footer Include Here -->

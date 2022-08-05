@@ -25,6 +25,7 @@ section.inspiring_sec {
 
 .inspiring_content span.font_italic {
     font-size: 40px;
+    font-family: "Calvino-Grande-Semibold-Italic";
 }
 
 section.story_banner {
@@ -38,4 +39,12 @@ section.inspiring_sec img {
 
 .inspiring_img {
     text-align: right;
+}
+p.top_text {
+    font-family: 'calvino_l';
+    font-size: 16px;
+}
+h2.top_heading {
+    font-family: 'calvino_sb';
+    font-size: 40px;
 }

@@ -1,5 +1,5 @@
 <!-- App Include Here -->
-<?php include 'inc/app.php';?>
+<?php include 'inc/app.php'; ?>
 <!-- App Include Here -->
 
 <!-- Css Stylesheet -->
@@ -17,159 +17,162 @@
             </div>
         </div>
     </section>
-    <section class="blog_sec blog_blue">
+    <section class="blogs_start">
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
-                    <div class="blog_img wow animate__animated animate__fadeInLeft">
-                        <img src="img/myblog1.png" class="img-fluid" alt="">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                    <div class="single_blog">
+                        <figure>
+                            <img src="img/blog1.png" class="img-fluid w-100" alt="">
+                        </figure>
+                        <div class="text_box blue">
+                            <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
+                            <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                                <a href="" class="read_more">READ MORE</a>
+                            </p>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-8">
-                    <div class="home_about_content wow animate__animated animate__fadeInRight">
-                        <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
-                        <h2>Find All About <span class="font_italic">Carolyn Gill</span> </h2>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            labor et, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis nostis nisi ut commodo consequat.
-                            <a href="blogdetail.php">
-                                <span class="readmore_text">READ MORE</span>
-                            </a>
-
-                        </p>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                    <div class="single_blog">
+                        <figure>
+                            <img src="img/blog1.png" class="img-fluid w-100" alt="">
+                        </figure>
+                        <div class="text_box greeny">
+                            <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
+                            <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                                <a href="" class="read_more">READ MORE</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                    <div class="single_blog">
+                        <figure>
+                            <img src="img/blog1.png" class="img-fluid w-100" alt="">
+                        </figure>
+                        <div class="text_box blue">
+                            <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
+                            <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                                <a href="" class="read_more">READ MORE</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                    <div class="single_blog">
+                        <figure>
+                            <img src="img/blog1.png" class="img-fluid w-100" alt="">
+                        </figure>
+                        <div class="text_box greeny">
+                            <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
+                            <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                                <a href="" class="read_more">READ MORE</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                    <div class="single_blog">
+                        <figure>
+                            <img src="img/blog1.png" class="img-fluid w-100" alt="">
+                        </figure>
+                        <div class="text_box blue">
+                            <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
+                            <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                                <a href="" class="read_more">READ MORE</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                    <div class="single_blog">
+                        <figure>
+                            <img src="img/blog1.png" class="img-fluid w-100" alt="">
+                        </figure>
+                        <div class="text_box greeny">
+                            <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
+                            <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                                <a href="" class="read_more">READ MORE</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                    <div class="single_blog">
+                        <figure>
+                            <img src="img/blog1.png" class="img-fluid w-100" alt="">
+                        </figure>
+                        <div class="text_box blue">
+                            <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
+                            <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                                <a href="" class="read_more">READ MORE</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                    <div class="single_blog">
+                        <figure>
+                            <img src="img/blog1.png" class="img-fluid w-100" alt="">
+                        </figure>
+                        <div class="text_box greeny">
+                            <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
+                            <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                                <a href="" class="read_more">READ MORE</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                    <div class="single_blog">
+                        <figure>
+                            <img src="img/blog1.png" class="img-fluid w-100" alt="">
+                        </figure>
+                        <div class="text_box blue">
+                            <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
+                            <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                                <a href="" class="read_more">READ MORE</a>
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="blog_wrapper">
-
-                <div>
-
-                </div>
+            <div class="container">
+                <nav aria-label="Page navigation example">
+                    <ul class="pagination">
+                        <li class="page-item">
+                            <a class="page-link" href="#" aria-label="Previous">
+                                <span aria-hidden="true">&lt;</span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                        </li>
+                        <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                        <li class="page-item"><a class="page-link" href="#">2</a></li>
+                        <li class="page-item"><a class="page-link" href="#">3</a></li>
+                        <li class="page-item">
+                            <a class="page-link" href="#" aria-label="Next">
+                                <span aria-hidden="true">&gt;</span>
+                                <span class="sr-only">Next</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
             </div>
         </div>
     </section>
-    <section class="blog_sec ">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="blog_img wow animate__animated animate__fadeInLeft">
-                        <img src="img/myblog2.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-                <div class="col-md-8">
-                    <div class="home_about_content wow animate__animated animate__fadeInRight">
-                        <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
-                        <h2>Find All About <span class="font_italic">Carolyn Gill</span> </h2>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            labor et, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis nostis nisi ut commodo consequat.
-                            <a href="blogdetail.php">
-                                <span class="readmore_text">READ MORE</span>
-                            </a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="blog_wrapper">
-
-                <div>
-
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="blog_sec blog_blue">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="blog_img wow animate__animated animate__fadeInLeft">
-                        <img src="img/myblog3.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-                <div class="col-md-8">
-                    <div class="home_about_content wow animate__animated animate__fadeInRight">
-                        <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
-                        <h2>Find All About <span class="font_italic">Carolyn Gill</span> </h2>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            labor et, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis nostis nisi ut commodo consequat.
-                            <a href="blogdetail.php">
-                                <span class="readmore_text">READ MORE</span>
-                            </a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="blog_wrapper">
-
-                <div>
-
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="blog_sec ">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="blog_img wow animate__animated animate__fadeInLeft">
-                        <img src="img/myblog4.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-                <div class="col-md-8">
-                    <div class="home_about_content wow animate__animated animate__fadeInRight">
-                        <h2 class="race_font">Welcome To Carolyn Gill Coaching</h2>
-                        <h2>Find All About <span class="font_italic">Carolyn Gill</span> </h2>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            labor et, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis nostis nisi ut commodo consequat.
-                            <a href="blogdetail.php">
-                                <span class="readmore_text">READ MORE</span>
-                            </a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="blog_wrapper">
-
-                <div>
-
-                </div>
-            </div>
-        </div>
-    </section>
-    <div class="container">
-        <nav aria-label="Page navigation example">
-            <ul class="pagination">
-                <li class="page-item">
-                    <a class="page-link" href="#" aria-label="Previous">
-                        <span aria-hidden="true">&lt;</span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                </li>
-                <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                <li class="page-item"><a class="page-link" href="#">2</a></li>
-                <li class="page-item"><a class="page-link" href="#">3</a></li>
-                <li class="page-item">
-                    <a class="page-link" href="#" aria-label="Next">
-                        <span aria-hidden="true">&gt;</span>
-                        <span class="sr-only">Next</span>
-                    </a>
-                </li>
-            </ul>
-        </nav>
-    </div>
 </section>
 <!-- section blog end here -->
 
 <!-- Footer Include Here -->
-<?php include 'inc/footer.php';?>
+<?php include 'inc/footer.php'; ?>
 <!-- Footer Include Here -->

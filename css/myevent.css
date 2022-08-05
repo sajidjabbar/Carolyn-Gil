@@ -34,7 +34,7 @@ section.myevent_page .page-item.active .page-link {
 
 section.myevent_page .home_about_content small {
     font-family: "Poppins";
-    font-size: 11px;
+    font-size: 10px;
 }
 
 .myevent_page section .blog_sec.blog_blue .home_about_content {
@@ -45,7 +45,7 @@ section.myevent_page .home_about_content small {
 
 .myevent_page section.blog_sec {
     margin: 3rem 0;
-    margin-top: 6rem;
+    margin-top: 4rem;
 }
 
 .myevent_page .blog_sec.blog_blue .home_about_content {
@@ -69,6 +69,8 @@ section.myevent_page .home_about_content small {
 .myevent_page .home_about_content a.btn {
     padding: 0;
     background: transparent;
+    font-family: "calvino_sb";
+    font-size: 13px;
 }
 
 .myevent_page .home_about_content a.btn:hover {
@@ -83,4 +85,39 @@ section.myevent_page .home_about_content small {
 
 .myevent_page .home_about_content p {
     line-height: 2;
+}
+.home_about_content p {
+    font-size: 12px;
+}
+h4 {
+    font-size: 24px;
+
+}
+.myevent_page .home_about_content span.font_italic {
+    font-size: 24px;
+}
+.top_heading.d-flex.align-items-center.justify-content-between a.btn {
+    background: #E2FEFF;
+    padding: 8px 20px 5px;
+    position: relative;
+    font-size: 14px;
+    top: -9px;
+    font-family: 'calvino_sb';
+}
+section.blog_sec.blog_blue .top_heading.d-flex.align-items-center.justify-content-between a.btn {
+    background: #F8F3F1;
+    padding: 8px 20px 5px;
+    position: relative;
+    top: -9px;
+}
+span.font_italic {
+    font-family: 'calvino_sb';
+    font-weight: 600;
+    font-size: 43px;
+    color: #000000;
+    /* font-style: italic; */
+}
+section.universal_banner.pb-5 p {
+    font-size: 17px;
+    font-family: 'calvino_l';
 }

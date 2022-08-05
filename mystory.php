@@ -1,5 +1,5 @@
 <!-- App Include Here -->
-<?php include 'inc/app.php';?>
+<?php include 'inc/app.php'; ?>
 <!-- App Include Here -->
 
 <!-- Css Stylesheet -->
@@ -15,9 +15,9 @@
                 <h2 class="race_font wow animate__animated animate__fadeInDown">My Story</h2>
                 <h2 class="wow animate__animated animate__fadeInDown">Find All About <span class="font_italic">Carolyn
                         Gill</span> </h2>
-                <p class="wow animate__animated animate__fadeInDown">
+                <p class="wow animate__animated animate__fadeInDown top_text">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore <br> magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+                    et dolore magna <br> aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
                     ut
                     commodo consequat.
                 </p>
@@ -49,28 +49,30 @@
     <!-- inspiring life sectin start here -->
     <section class="inspiring_sec">
         <div class="container">
-            <div class="row">
-                <div class="col-md-6 align-self-center">
-                    <div>
-                        <div class="inspiring_content wow animate__animated animate__fadeInLeft">
-                            <h2 class="race_font">Inspiring Lifes</h2>
-                            <h3>Inspiring Women To Find</h3>
-                            <span class="font_italic">Home Within</span>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                exercitation ullamco laboris nisi ut commodo consequat.
-                                <br><br>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                exercitation
-                            </p>
+            <div class="col-md-10 mx-auto">
+                <div class="row">
+                    <div class="col-md-6 align-self-center">
+                        <div>
+                            <div class="inspiring_content wow animate__animated animate__fadeInLeft">
+                                <h2 class="race_font">Inspiring Lifes</h2>
+                                <h3>Inspiring Women To Find</h3>
+                                <span class="font_italic">Home Within</span>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                    exercitation ullamco laboris nisi ut commodo consequat.
+                                    <br><br>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                    exercitation
+                                </p>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="inspiring_img wow animate__animated animate__fadeInRight">
-                        <img src="img/mystory4.png" class="img-fluid" alt="">
+                    <div class="col-md-6">
+                        <div class="inspiring_img wow animate__animated animate__fadeInRight pl-5 ml-3">
+                            <img src="img/mystory4.png" class="img-fluid" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
@@ -81,5 +83,5 @@
 <!-- story page end here -->
 
 <!-- Footer Include Here -->
-<?php include 'inc/footer.php';?>
+<?php include 'inc/footer.php'; ?>
 <!-- Footer Include Here -->

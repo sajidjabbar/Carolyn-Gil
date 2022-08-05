@@ -33,7 +33,10 @@
 	font-family: "racing";
 	src: url(../fonts/Racing\ Catalogue.ttf);
 }
-
+@font-face {
+	font-family: "Calvino-Grande-Semibold-Italic";
+	src: url(../fonts/Calvino-Grande-Semibold-Italic-trial.ttf);
+}
 /* Universal Css Start Here */
 :root {
 	--first-color: #81be41;
@@ -71,10 +74,10 @@ h2 {
 }
 
 h3 {
-	font-size: 30px;
-	font-weight: 400;
-	line-height: 40px;
-	font-family: 'calvino_sb';
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+    font-family: 'calvino_r';
 }
 
 h4 {
@@ -166,11 +169,11 @@ label {
 }
 
 span.font_italic {
-	font-family: "calvino_italic";
-	font-weight: 600;
-	font-size: 40px;
+    font-family: 'calvino_b';
+    font-weight: 600;
+    font-size: 40px;
+    font-style: italic;
 }
-
 .universal_banner {
 	background: #fff;
 	text-align: center;
@@ -1289,16 +1292,16 @@ footer .footer_content ul.social_links li {
 }
 
 footer .footer_content ul.social_links li {
-	background: #172233;
-	width: 41px;
-	text-align: center;
-	line-height: 36px;
-	/* margin-right: 10px; */
-	border: 2px solid #7a7c81;
-	border-radius: 50%;
-	height: 41px;
-	margin-bottom: 8px;
-	margin-right: 10px;
+    background: #172233;
+    width: 35px;
+    text-align: center;
+    line-height: 33px;
+    /* margin-right: 10px; */
+    border: 2px solid #7a7c81;
+    border-radius: 50%;
+    height: 35px;
+    margin-bottom: 8px;
+    margin-right: 10px;
 }
 
 footer .footer_content ul.social_links li a {
@@ -1306,12 +1309,12 @@ footer .footer_content ul.social_links li a {
 }
 
 footer .footer_content ul.social_links li a i {
-	font-size: 24px;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	margin-top: 6px;
-	color: #E2FEFF;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6px;
+    color: #E2FEFF;
 }
 
 /* footer .footer_content ul.social_links li a i:hover {
@@ -1364,6 +1367,9 @@ footer .footer_content ul.social_links .icon_instagram {
 	width: 15px;
 	vertical-align: baseline;
 	line-height: 36px;
+}
+.ft-logoDv figure img {
+    max-width: 202px;
 }
 
 footer .footer_content ul.social_links li:hover {

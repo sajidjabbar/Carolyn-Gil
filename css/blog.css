@@ -36,3 +36,34 @@ section.blog_page .page-item.active .page-link {
     color: #37CACF;
     font-family: 'calvino_sb';
 }
+
+/* blogs start here */
+h5.race_font {
+    font-family: "racing";
+    font-weight: 400;
+    font-size: 22px;
+}
+h4{
+    font-family: 'calvino_r';
+    font-size: 26px;
+}
+h4 span.font_italic{
+    font-size: 26px;
+}
+p {
+    margin-bottom: 0px;
+    font-family: 'calvino_l';
+    font-size: 13px;
+}
+.text_box {
+    padding: 16px 15px 22px;
+}
+.text_box.blue{
+    background: #E2FEFF;
+}
+.text_box.greeny {
+    background: #F8F3F1;
+}
+ul.pagination {
+    margin: 47px 0px 134px;
+}
