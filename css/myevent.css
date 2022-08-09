@@ -1,3 +1,6 @@
+p {
+    text-shadow: 0 0 black;
+}
 .myevent_page img {
     height: 250px;
 }

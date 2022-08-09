@@ -1,3 +1,6 @@
+p {
+    text-shadow: 0 0 black;
+}
 .succes_story_page h2.race_font {
     font-family: "racing";
     font-weight: 400;
