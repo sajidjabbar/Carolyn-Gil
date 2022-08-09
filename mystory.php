@@ -17,7 +17,7 @@
                         Gill</span> </h2>
                 <p class="wow animate__animated animate__fadeInDown top_text">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna <br> aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+                    et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
                     ut
                     commodo consequat.
                 </p>
@@ -70,7 +70,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="inspiring_img wow animate__animated animate__fadeInRight pl-5 ml-3">
+                        <div class="inspiring_img wow animate__animated animate__fadeInRight ">
                             <img src="img/mystory4.png" class="img-fluid" alt="">
                         </div>
                     </div>

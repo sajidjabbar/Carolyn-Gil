@@ -20,7 +20,7 @@
     <section class="blogs_start">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                <div class="col-lg-4 col-md-6  mt-5">
                     <div class="single_blog">
                         <figure>
                             <img src="img/blog1.png" class="img-fluid w-100" alt="">
@@ -28,13 +28,14 @@
                         <div class="text_box blue">
                             <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
                             <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incialiquanim veniam ad minim veniam, quis no.
                                 <a href="" class="read_more">READ MORE</a>
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                <div class="col-lg-4 col-md-6  mt-5">
                     <div class="single_blog">
                         <figure>
                             <img src="img/blog1.png" class="img-fluid w-100" alt="">
@@ -42,13 +43,14 @@
                         <div class="text_box greeny">
                             <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
                             <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incialiquanim veniam ad minim veniam, quis no.
                                 <a href="" class="read_more">READ MORE</a>
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                <div class="col-lg-4 col-md-6  mt-5">
                     <div class="single_blog">
                         <figure>
                             <img src="img/blog1.png" class="img-fluid w-100" alt="">
@@ -56,13 +58,14 @@
                         <div class="text_box blue">
                             <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
                             <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incialiquanim veniam ad minim veniam, quis no.
                                 <a href="" class="read_more">READ MORE</a>
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                <div class="col-lg-4 col-md-6  mt-5">
                     <div class="single_blog">
                         <figure>
                             <img src="img/blog1.png" class="img-fluid w-100" alt="">
@@ -70,13 +73,14 @@
                         <div class="text_box greeny">
                             <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
                             <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incialiquanim veniam ad minim veniam, quis no.
                                 <a href="" class="read_more">READ MORE</a>
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                <div class="col-lg-4 col-md-6  mt-5">
                     <div class="single_blog">
                         <figure>
                             <img src="img/blog1.png" class="img-fluid w-100" alt="">
@@ -84,13 +88,14 @@
                         <div class="text_box blue">
                             <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
                             <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incialiquanim veniam ad minim veniam, quis no.
                                 <a href="" class="read_more">READ MORE</a>
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                <div class="col-lg-4 col-md-6  mt-5">
                     <div class="single_blog">
                         <figure>
                             <img src="img/blog1.png" class="img-fluid w-100" alt="">
@@ -98,13 +103,14 @@
                         <div class="text_box greeny">
                             <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
                             <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incialiquanim veniam ad minim veniam, quis no.
                                 <a href="" class="read_more">READ MORE</a>
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                <div class="col-lg-4 col-md-6  mt-5">
                     <div class="single_blog">
                         <figure>
                             <img src="img/blog1.png" class="img-fluid w-100" alt="">
@@ -112,13 +118,14 @@
                         <div class="text_box blue">
                             <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
                             <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incialiquanim veniam ad minim veniam, quis no.
                                 <a href="" class="read_more">READ MORE</a>
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                <div class="col-lg-4 col-md-6  mt-5">
                     <div class="single_blog">
                         <figure>
                             <img src="img/blog1.png" class="img-fluid w-100" alt="">
@@ -126,13 +133,14 @@
                         <div class="text_box greeny">
                             <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
                             <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incialiquanim veniam ad minim veniam, quis no.
                                 <a href="" class="read_more">READ MORE</a>
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xl-12 mt-5">
+                <div class="col-lg-4 col-md-6  mt-5">
                     <div class="single_blog">
                         <figure>
                             <img src="img/blog1.png" class="img-fluid w-100" alt="">
@@ -140,7 +148,8 @@
                         <div class="text_box blue">
                             <h5 class="race_font mb-0">Welcome To Carolyn Gill Coaching</h5>
                             <h4>Find All About <span class="font_italic">Carolyn Gill</span></h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incialiquanim veniam ad minim veniam, quis no.
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incialiquanim veniam ad minim veniam, quis no.
                                 <a href="" class="read_more">READ MORE</a>
                             </p>
                         </div>

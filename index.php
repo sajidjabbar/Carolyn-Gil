@@ -1,5 +1,5 @@
 <!-- App Include Here -->
-<?php include 'inc/app.php';?>
+<?php include 'inc/app.php'; ?>
 <!-- App Include Here -->
 
 <!-- Body  Start Here -->
@@ -110,7 +110,7 @@
                 <div class="col-md-6 align-self-center">
                     <div class="wdynm_content wow animate__animated animate__fadeInRight">
                         <h2 class="race_font">Lorem Ipsum</h2>
-                        <h2>Why Do You <span class="font_italic">Need Me</span> </h2>
+                        <h2 class="why-heading">Why Do You <span class="font_italic">Need Me</span> </h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
                             laboris nisi ut commodo consequat. <span class="readmore_text">READ MORE</span>
@@ -210,15 +210,16 @@
             </div>
             <div class="row">
                 <div class="col"></div>
-                <div class="col-md-2">
+                <div class="col-md-2 p-0">
                     <div class="ruready_content_sec wow animate__animated animate__fadeInLeft">
                         <div class="ruready_content ">
                             <figure>
                                 <img src="img/ruready1.png" class="img-fluid" alt="">
                             </figure>
                             <div>
-                                <h6><span class="font_italic">Coaching With
-                                        Zoom Or Phone</span> </h6>
+                                <h6><span class="font_italic"><span class="three">1:1</span> Coaching With
+                                        Zoom Or Phone
+                                    </span> </h6>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                     incididunt ut.
@@ -228,7 +229,7 @@
                     </div>
                 </div>
                 <div class="col"></div>
-                <div class="col-md-2">
+                <div class="col-md-2 p-0">
                     <div class="ruready_content_sec wow animate__animated animate__fadeInDown">
                         <div class="ruready_content">
                             <figure>
@@ -245,7 +246,7 @@
                     </div>
                 </div>
                 <div class="col"></div>
-                <div class="col-md-2">
+                <div class="col-md-2 p-0">
                     <div class="ruready_content_sec wow animate__animated animate__fadeInRight">
                         <div class="ruready_content">
                             <figure>
@@ -253,7 +254,7 @@
                             </figure>
                             <div>
                                 <h6><span class="font_italic">A Personal
-                                        Days Weekend</span> </h6>
+                                        <span class="three">3</span>Days Weekend</span> </h6>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                     incididunt ut.
@@ -451,7 +452,8 @@
         <div class="container">
             <div class="home_event_top">
                 <h2 class="race_font wow animate__animated animate__fadeInDown">Lorem Ipsum Doler</h2>
-                <h2 class="wow animate__animated animate__fadeInDown">Live Events</h2>
+                <h2 class="wow animate__animated animate__fadeInDown">Live <span class="event-heading"> Events </span>
+                </h2>
                 <p class="wow animate__animated animate__fadeInDown">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
                     et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
@@ -596,5 +598,5 @@
 
 
 <!-- Footer Include Here -->
-<?php include 'inc/footer.php';?>
+<?php include 'inc/footer.php'; ?>
 <!-- Footer Include Here -->

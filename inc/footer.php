@@ -3,7 +3,7 @@
     <div class="container">
         <div class="col-lg-10 col-md-12 mx-auto">
             <div class="row black_mid">
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6 p-0">
                     <div class="footer_content">
                         <div class="ft-logoDv">
                             <figure><img src="img/footer_logo.png" class="img-fluid"></figure>
@@ -17,7 +17,7 @@
                 </div>
                 <div class="col-lg-8">
                     <div class="row">
-                        <div class="col-lg-4 col-md-6">
+                        <div class="col-lg-4 col-md-6 p-0">
                             <div class="footer_content">
                                 <div class="head">
                                     <h5>Dataxive Menu</h5>
@@ -31,7 +31,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6">
+                        <div class="col-lg-4 col-md-6 p-0">
                             <div class="footer_content">
                                 <div class="head">
                                     <h5>Social</h5>
@@ -40,14 +40,18 @@
                                     Follow me On Social Media
                                 </p>
                                 <ul class="social_links">
-                                    <li><a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube-play"
+                                                aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin"
+                                                aria-hidden="true"></i></a></li>
                                     <li><a href="https://www.instagram.com/" target="_blank">
                                             <i class="fa fa-instagram" aria-hidden="true"></i>
                                         </a>
                                     </li>
-                                    <li><a href="https://www.twitter.com/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.twitter.com/" target="_blank"><i class="fa fa-twitter"
+                                                aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"
+                                                aria-hidden="true"></i></a></li>
                                 </ul>
                                 <!-- <ul class="footer_menus">
                                 <li><a href="#">PRIVACY POLICY</a></li>
@@ -58,7 +62,7 @@
                             </ul> -->
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6">
+                        <div class="col-lg-4 col-md-6 p-0">
                             <div class="footer_content">
                                 <div class="head">
                                     <h5>Newsletter</h5>
@@ -68,7 +72,8 @@
                                     <div class="form-group">
                                         <input type="text" class="form-control" id="newsletter">
                                     </div>
-                                    <button type="submit" class="btn \">Learn More <img src="img/rightarrow.svg" class="img-fluid" alt=""></button>
+                                    <button type="submit" class="btn \">Learn More <img src="img/rightarrow.svg"
+                                            class="img-fluid" alt=""></button>
                                 </div>
                                 <!-- <ul class="info">
                                 <li><a href="#"><i class="fa fa-phone"></i> (800) 0123-456-789</a></li>

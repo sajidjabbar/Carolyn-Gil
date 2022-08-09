@@ -67,3 +67,8 @@ p {
 ul.pagination {
     margin: 47px 0px 134px;
 }
+.text_box a {
+    color: #37CACF;
+    font-size: 16px;
+    font-family: 'calvino_sb';
+}

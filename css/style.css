@@ -2,6 +2,7 @@
 @import "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap";
 @import "https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap";
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,600&display=swap');
 /* Font Family */
 
 @font-face {
@@ -18,7 +19,6 @@
 	font-family: "calvino_b";
 	src: url(../fonts/Calvino-Grande-Bold-trial.ttf);
 }
-
 @font-face {
 	font-family: "calvino_l";
 	src: url(../fonts/Calvino-Grande-Light-trial.ttf);
@@ -37,6 +37,7 @@
 	font-family: "Calvino-Grande-Semibold-Italic";
 	src: url(../fonts/Calvino-Grande-Semibold-Italic-trial.ttf);
 }
+
 /* Universal Css Start Here */
 :root {
 	--first-color: #81be41;
@@ -167,10 +168,21 @@ h3.heading-page {
 label {
 	font-family: "calvino_r";
 }
-
+.why-heading {
+	font-family: 'calvino_r';
+	font-size: 40px;
+	color: #000000;
+}
+.three {
+    font-family: "Playfair Display";
+    font-size: 21px;
+    font-style: initial;
+    font-weight: 600;
+    padding-left: 1px;
+    padding-right: 4px;
+}
 span.font_italic {
     font-family: 'calvino_b';
-    font-weight: 600;
     font-size: 40px;
     font-style: italic;
 }
@@ -862,6 +874,7 @@ section.ruready_sec p {
 
 .ruready_content h6 span.font_italic {
 	font-size: 21px;
+	font-family: "Calvino-Grande-Semibold-Italic";
 }
 
 /* are u ready section end here */
@@ -1084,6 +1097,10 @@ p.event_date {
 	color: #fff;
 }
 
+.event-heading{
+	font-family: "calvino_italic";
+	font-weight: 600;
+}
 .home_event_desc span.font_italic {
 	font-family: "calvino_italic";
 	font-weight: 500;
@@ -1293,30 +1310,29 @@ footer .footer_content ul.social_links li {
 
 footer .footer_content ul.social_links li {
     background: #172233;
-    width: 35px;
+    width: 40px;
     text-align: center;
     line-height: 33px;
     /* margin-right: 10px; */
-    border: 2px solid #7a7c81;
+    /* border: 2px solid #7a7c81; */
     border-radius: 50%;
-    height: 35px;
-    margin-bottom: 8px;
-    margin-right: 10px;
+    height: 40px;
+    margin-bottom: 21px;
+    margin-right: 14px;
+    padding: 3px 0px;
 }
-
 footer .footer_content ul.social_links li a {
 	color: #fff;
 }
 
 footer .footer_content ul.social_links li a i {
-    font-size: 17px;
+    font-size: 23px;
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 6px;
     color: #E2FEFF;
 }
-
 /* footer .footer_content ul.social_links li a i:hover {
   color: #619700;
 } */
@@ -1336,9 +1352,12 @@ footer .footer_content ul.footer_menus {
 }
 
 .ft_newletter .form-group .form-control {
-	border-radius: 20px;
+    border-radius: 20px;
+    width: 228px;
 }
-
+.ft_newletter .form-group {
+    margin-bottom: 19px;
+}
 /* footer .footer_content:after {
 	content: "";
 	border-right: 1px solid #274d5e;
