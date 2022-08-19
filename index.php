@@ -59,7 +59,7 @@
                         <h2 class="race_font wow animate__animated animate__fadeInRight">Welcome To Carolyn Gill
                             Coaching
                         </h2>
-                        <h2 class="wow animate__animated animate__fadeInRight">Find All About <span class="font_italic">
+                        <h2 class="wow animate__animated animate__fadeInRight">Hi, I’m <span class="font_italic">
                                 Carolyn Gill</span> </h2>
                         <p class="wow animate__animated animate__fadeInRight">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
@@ -109,7 +109,7 @@
                 </div>
                 <div class="col-md-6 align-self-center">
                     <div class="wdynm_content wow animate__animated animate__fadeInRight">
-                        <h2 class="race_font">Lorem Ipsum</h2>
+                        <h2 class="race_font">Wondering</h2>
                         <h2 class="why-heading">Why Do You <span class="font_italic">Need Me</span> </h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -268,6 +268,24 @@
         </div>
     </section>
     <!-- are u ready section end here -->
+    <!-- blue section start here -->
+    <section class="blue_sec">
+        <div class="container">
+            <div class="blue_content">
+                <p class="text1 wow animate__animated animate__fadeInDown">
+                    " To support women to achieve their full potential; <span class="font_italic">to encourage,
+                        enable and facilitate</span> their Active
+                    involvement in business, <span class="font_italic">employment, learning and community life. "</span>
+                </p>
+                <div class="brand_name wow animate__animated animate__fadeInDown">
+
+                    <p><img src="img/icondraw.svg" class="img-fluid mr-3" alt=""> Carolyn Gill<img
+                            src="img/icondraw.svg" class="img-fluid ml-3" alt=""> </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- blue section end here -->
     <!-- you will want to read section start here -->
     <section class="home_article_sec">
         <div class="container">
@@ -589,7 +607,7 @@
     <!-- instafeed section edn here -->
     <section class="fixed_btn-sec">
         <div>
-            <a href="booknow.php" class="btn"><img src="img/appointm_icon.png" class="img-fluid mr-2" alt="">book <br>
+            <a href="contact.php" class="btn"><img src="img/appointm_icon.png" class="img-fluid mr-2" alt="">contact <br>
                 NOW</a>
         </div>
     </section>

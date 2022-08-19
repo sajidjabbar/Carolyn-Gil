@@ -69,9 +69,15 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 align-self-center">
                         <div class="inspiring_img wow animate__animated animate__fadeInRight ">
-                            <img src="img/mystory4.png" class="img-fluid" alt="">
+                            <!-- <img src="img/mystory4.png" class="img-fluid" alt=""> -->
+
+                            <div class="inspiring_video">
+                                <video width="400" height="300" autoplay muted loop>
+                                    <source src="img/demovideo.mp4" type="video/mp4">
+                                </video>
+                            </div>
                         </div>
                     </div>
                 </div>

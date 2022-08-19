@@ -1,5 +1,5 @@
 .content_left span {
-    font-family: "Poppins";
+    font-family: "calvino_b";
     font-weight: 400;
     font-size: 14px;
 }
@@ -54,4 +54,7 @@ section.contact_sec {
 
 .contact_right h2.race_font {
     line-height: 1;
+}
+section.contact_page .row.contact_he {
+    background: #e2feff;
 }

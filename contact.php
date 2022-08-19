@@ -19,17 +19,17 @@
     </section>
     <section class="contact_sec">
         <div class="container">
-            <div class="row">
+            <div class="row contact_he">
                 <div class="col-md-3 contact_left align-self-center">
                     <div class="contact_left_blue">
                         <div>
-                            <div class="left_content">
+                            <!-- <div class="left_content">
                                 <div><img src="img/phone_icon.svg" class="img-fluid" alt=""></div>
                                 <div class="content_left">
                                     <h4>Call Us : </h4>
                                     <span>+123 (456) 789</span>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="left_content">
                                 <div><img src="img/email_icon.svg" class="img-fluid" alt=""></div>
                                 <div class="content_left">
@@ -37,14 +37,14 @@
                                     <span>info@example.com</span>
                                 </div>
                             </div>
-                            <div class="left_content">
+                            <!-- <div class="left_content">
                                 <div><img src="img/location_icon.svg" class="img-fluid" alt=""></div>
                                 <div class="content_left">
                                     <h4>Address : </h4>
                                     <span>115 los angeles street <br>
                                         Chicago , PA 1243</span>
                                 </div>
-                            </div>
+                            </div> -->
 
                         </div>
                     </div>
