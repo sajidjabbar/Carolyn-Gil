@@ -252,7 +252,13 @@ header .canvas_btn i.fa.fa-bars {
 	top: 20px;
 	right: 20px;
 }
+#header-top .logoDv {
+    text-align: center;
+}
 
+#header-top .logoDv a figure img {
+    width: 150px;
+}
 @media (max-width: 991px) {
 	header .canvas_btn {
 		display: flex;
@@ -1296,6 +1302,7 @@ footer .footer_content p {
 	/* padding: 2rem 1rem; */
 	/* border-right: 1px solid #fff; */
 	font-family: "calvino_l";
+	margin-top: 5px;
 }
 
 footer .footer_content ul.social_links {
@@ -1445,7 +1452,12 @@ footer .footer_content ul.info li img {
 	width: 15px;
 	margin-right: 5px;
 }
-
+footer .footer_content .ft-logoDv {
+    text-align: center;
+}
+footer .footer_content .ft-logoDv figure img {
+    width: 150px;
+}
 .copyright {
 	padding: 20px 0;
 	text-align: center;
