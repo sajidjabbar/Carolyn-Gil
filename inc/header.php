@@ -16,7 +16,7 @@
             <div class="col-lg-2 col-3">
                 <div class="logoDv">
                     <a href="index.php">
-                        <figure><img src="img/carolyngill_logo.png" class="img-fluid"></figure>
+                        <figure><img src="img/carolyn_gill_new.png" class="img-fluid"></figure>
                     </a>
                 </div>
             </div>

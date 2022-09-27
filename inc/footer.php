@@ -6,7 +6,7 @@
                 <div class="col-lg-4 col-md-6 p-0">
                     <div class="footer_content">
                         <div class="ft-logoDv">
-                            <figure><img src="img/carolyngill_logo.png" class="img-fluid"></figure>
+                            <figure><img src="img/carolyn_gill_new.png" class="img-fluid"></figure>
                         </div>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
